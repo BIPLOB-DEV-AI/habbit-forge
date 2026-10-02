@@ -1,0 +1,6 @@
+{
+  "name": "HABIT FORGE - Digital Habit Planner & Tracker",
+  "description": "Premium digital habit planner and productivity dashboard. Build better, every day with automated weekly routines, 12-month habit tracker, to-do list, and statistics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
